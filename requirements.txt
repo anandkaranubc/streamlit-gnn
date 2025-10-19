@@ -1,0 +1,6 @@
+streamlit
+jax[cpu]
+jaxlib[cpu]
+numpy
+networkx
+matplotlib
